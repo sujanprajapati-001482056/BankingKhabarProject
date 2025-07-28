@@ -1,3 +1,9 @@
+# BankingKhabarProject
+
+BankingKhabarProject is a React-based news website focused on delivering the latest updates and insights related to banking and finance. It fetches dynamic content from a WordPress backend and features categorized news, detailed articles, and social media integration.
+
+Built with React, React Router, Axios, and Tailwind CSS for a responsive and modern user experience.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
